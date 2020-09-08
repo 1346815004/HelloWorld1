@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="listtest">
+        <item>董昊1</item>
+        <item>董昊2</item>
+        <item>董昊3</item>
+        <item>董昊4</item>
+        <item>董昊5</item>
+        <item>董昊6</item>
+        <item>董昊7</item>
+        <item>董昊8</item>
+    </string-array>
+</resources>
